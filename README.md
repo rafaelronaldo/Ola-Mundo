@@ -3,4 +3,4 @@
 
   Reposítorio criado durante uma aula do curso.  
 
-  [Curso Em Vídeo - Gustavo Guanabara] (https://www.cursoemvideo.com/curso/curso-de-git-e-github/)
+  [Curso Em Vídeo - Gustavo Guanabara](https://www.cursoemvideo.com/curso/curso-de-git-e-github/)
